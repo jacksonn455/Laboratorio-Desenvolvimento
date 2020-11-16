@@ -1,0 +1,9 @@
+Paginas abertas
+
+-Rive , 2dimensions
+-Firebase
+-Monografia
+-Apresentação
+-Android Studio
+-OneSignal
+-video

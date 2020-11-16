@@ -1,8 +1,8 @@
 Velha Guarda Cervejaria
 ===============================================
 
-  - [Apresentação Projeto](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Apresenta%C3%A7%C3%A3o%20-%20Laborat%C3%B3rio%20de%20desenvolvimento.pdf)
-  - [Monografia](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Trabalho%20-%20Laborat%C3%B3rio%20de%20desenvolvimento.pdf)
+  - [Apresentação Projeto](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Laborat%C3%B3rio%20de%20desenvolvimento.pdf)
+  - [Monografia](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Trabalho%20-%20Laborat%C3%B3rio%20de%20desenvolvimento.pdff)
   - [Manual do usuário](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Manual%20do%20usu%C3%A1rio%20-%20Laborat%C3%B3rio%20de%20desenvolvimento.pdf)
 
  Vídeo
@@ -12,7 +12,8 @@ Velha Guarda Cervejaria
 
  Cerveja
 =====================
- ![](https://github.com/jacksonn455/automacao-cervejaria/blob/master/images/kit2.png)
+ ![](https://github.com/jacksonn455/automacao-cervejaria/blob/master/images/kit3.jpg)
+ ![](https://github.com/jacksonn455/Monitor-de-temperatura/blob/main/Sem%20t%C3%ADtulo.png)
  ![](https://github.com/jacksonn455/automacao-cervejaria/blob/master/images/rotulo.png)
 
  Aplicativo

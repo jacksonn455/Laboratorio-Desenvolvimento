@@ -1,8 +1,8 @@
 Velha Guarda Cervejaria
 ===============================================
 
-  - [Apresentação Projeto](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Laborat%C3%B3rio%20de%20desenvolvimento.pdf)
-  - [Monografia](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Trabalho%20-%20Laborat%C3%B3rio%20de%20desenvolvimento.pdff)
+  - [Apresentação Projeto](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Laborat%C3%B3rio%20de%20desenvolvimento%20Apresenta%C3%A7%C3%A3o.pdf)
+  - [Monografia](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Trabalho%20-%20Laborat%C3%B3rio%20de%20desenvolvimento.pdf)
   - [Manual do usuário](https://github.com/jacksonn455/Laboratorio-Desenvolvimento/blob/main/Manual%20do%20usu%C3%A1rio%20-%20Laborat%C3%B3rio%20de%20desenvolvimento.pdf)
 
  Vídeo

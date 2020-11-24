@@ -4,6 +4,7 @@ Paginas abertas
 -Firebase
 -Monografia
 -Apresentação
--Android Studio
--OneSignal
+-Android Studio - main.dart, data(product_data.dart, product_screen.dart)
+-OneSignal  - Ler sobre o desenvolvimento
 -video
+  
